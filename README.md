@@ -12,6 +12,9 @@ This repository demonstrates how to use the `matplotlib` library in Python to pl
 4. **Histogram**
 5. **Pie Chart**
 6. **Bubble Chart**
+7. **Population growth plotting**
+8. **student marks compersion**
+9. **student bar chart**
 
 ## Requirements
 
